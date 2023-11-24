@@ -1,0 +1,98 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  CardioPRINT-based biometric identification with machine
+  learning
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Ilija
+    family-names: Tanasković
+    orcid: 'https://orcid.org/0000-0002-6488-4074'
+    affiliation: >-
+      University of Belgrade - School of Electrical
+      Engineering and Institute for Artificial Intelligence
+      R&D
+    email: ilijatanaskovic97@hotmail.com
+  - given-names: Ljiljana B.
+    family-names: Lazarević
+    orcid: 'https://orcid.org/0000-0003-1629-3699'
+    affiliation: >-
+      Institute of Psychology and Laboratory for research of
+      individual differences, Faculty of Philosophy,
+      University of Belgrade
+  - given-names: Goran
+    family-names: Knežević
+    orcid: 'https://orcid.org/0000-0001-8951-3774'
+    affiliation: >-
+      Department of Psychology and Laboratory for research
+      of individual differences, Faculty of Philosophy,
+      University of Belgrade
+  - given-names: Nikola
+    family-names: Milosavljević
+    orcid: 'https://orcid.org/0000-0001-5061-149X'
+    affiliation: >-
+      Institute of Psychology and Laboratory for research of
+      individual differences, Faculty of Philosophy,
+      University of Belgrade
+  - given-names: Olga
+    family-names: Dubljević
+    orcid: 'https://orcid.org/0000-0003-1560-1661'
+    affiliation: >-
+      Institute of Psychology and Laboratory for research of
+      individual differences, Faculty of Philosophy,
+      University of Belgrade and Institute for Biological
+      Research "Siniša Stanković", National Institute of the
+      Republic of Serbia, University of Belgrade
+  - given-names: Bojana
+    family-names: Bjegojević
+    orcid: 'https://orcid.org/0000-0002-8421-5572'
+    affiliation: >-
+      Institute of Psychology and Laboratory for research of
+      individual differences, Faculty of Philosophy,
+      University of Belgrade and echnological University
+      Dublin, Human Factors in Safety & Sustainability
+      Research Group
+  - given-names: Nadica
+    family-names: Miljković
+    orcid: 'https://orcid.org/0000-0002-3933-6076'
+    affiliation: >-
+      University of Belgrade – School of Electrical
+      Engineering and Faculty of Electrical Engineering,
+      University of Ljubljana
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.10204896
+repository-code: >-
+  https://github.com/Luck032/CardioPRINT-biometric-identification-with-machine-learning
+abstract: >-
+  This repository contains Python and R programming codes,
+  as well as extracted timestamps for segments that describe
+  emotional states and feature sets for both ECG and ICG
+  recordings that reproduce results for the paper titled
+  "CardioPRINT: Biometric identification based on the
+  individual characteristics derived from cardiogram"
+  authored by Ilija Tanasković (ORCiD: 0000-0002-6488-4074),
+  Ljiljana B. Lazarević (ORCiD: 0000-0003-1629-3699), Goran
+  Knežević (ORCiD: 0000-0001-8951-3774), Nikola
+  Milosavljević (ORCiD: 0000-0001-5061-149X), Olga Dubljević
+  (ORCiD: 0000-0003-1560-1661), Bojana Bjegojević (ORCiD:
+  0000-0002-8421-5572) and Nadica Miljković (ORCiD:
+  0000-0002-3933-6076). Features are calculated from The
+  dataset that was recorded for another study and we share
+  it openly on the Zenodo repository with a Creative Commons
+  Attribution 4.0 International license.
+keywords:
+  - biometric identification
+  - electrocardiogram
+  - impedance cardiogram
+  - machine learning
+  - induced emotional response
+license: GPL-3.0
+commit: 3e7fc17
+version: '1.0'
+date-released: '2023-11-24'
