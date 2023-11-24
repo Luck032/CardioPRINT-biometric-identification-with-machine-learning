@@ -37,3 +37,4 @@ NM acknowledges the support from Grant No. 451–03–47/ 2023–01/200103 funde
 
 ## How to cite this repository?
 If you find provided code and signals useful for your own research and teaching class, please cite the following references:
+1) Tanasković, I., & Miljković, N. (2023). NadicaSm/CardioPRINT-biometric-identification-with-machine-learning. [Software code], Zenodo.
