@@ -38,7 +38,7 @@ NM acknowledges the support from Grant No. 451–03–47/ 2023–01/200103 funde
 ## How to cite this repository?
 If you find provided code and signals useful for your own research and teaching class, please cite the following references:
 1) Tanasković, I., Lazarević, L. B., Knežević, G., Milosavljević, N., Dubljević, O., Bjegojević, B., & Miljković, N. (2023). CardioPRINT-based biometric identification with machine learning (Version 1.0) [Computer software]. https://github.com/Luck032/CardioPRINT-biometric-identification-with-machine-learning
-2) Tanasković, I., Lazarević, L. B., Knežević, G., Milosavljević, N., Dubljević, O., Bjegojević, B., & Miljković, N.(2023). CardioPRINT: Biometric identification based on the individual characteristics derived from cardiogram.
+2) Tanasković, I., Lazarević, L. B., Knežević, G., Milosavljević, N., Dubljević, O., Bjegojević, B., & Miljković, N.(2023). CardioPRINT: Biometric identification based on the individual characteristics derived from cardiogram. PsyArXiv preprint.
 3) Bjegojević B, Milosavljević N, Dubljević O, Purić D, Knežević G. In pursuit of
 objectivity: Physiological measures as a means of emotion induction procedure validation.
 Empirical Studies in Psychology 2020:17.
