@@ -1,4 +1,4 @@
-# CardioPRINT-biometric-identification-with-machine-learning
+# CardioPRINT-based Biometric Identification with Machine Learning
 This repository contains Python and R programming codes, as well as extracted timestamps for segments that describe emotional states and feature sets for both ECG and ICG recordings that reproduce results for the paper titled "[CardioPRINT: Biometric identification based on the individual characteristics derived from cardiogram](link)" authored by Ilija Tanasković (ORCiD: [0000-0002-6488-4074](https://orcid.org/0000-0002-6488-4074)), Ljiljana B. Lazarević (ORCiD: [0000-0003-1629-3699](https://orcid.org/0000-0003-1629-3699)), Goran Knežević (ORCiD: [0000-0001-8951-3774](https://orcid.org/0000-0001-8951-3774)), Nikola Milosavljević (ORCiD: [0000-0001-5061-149X](https://orcid.org/0000-0001-5061-149X)), Olga Dubljević (ORCiD: [0000-0003-1560-1661](https://orcid.org/0000-0003-1560-1661)), Bojana Bjegojević (ORCiD: [0000-0002-8421-5572](https://orcid.org/0000-0002-8421-5572)) and Nadica Miljković (ORCiD: [0000-0002-3933-6076](https://orcid.org/0000-0002-3933-6076)). Features are calculated  from The dataset that was recorded for another study and we share it openly on the Zenodo repository with a Creative Commons Attribution 4.0 International license.
 
 ## GitHub Repository Contents
@@ -35,9 +35,9 @@ Ilija Tanasković ([ilijatanaskovic97@hotmail.com](mailto:ilijatanaskovic97@hotm
 ## Funding
 NM acknowledges the support from Grant No. 451–03–47/ 2023–01/200103 funded by the Ministry of Science, Technological Development and Innovation of the Republic of Serbia. LBL and GK acknowledge the support from Grant No. 451-03-47/2023-01/200163 funded by the Ministry of Science, Technological Development and Innovation of the Republic of Serbia.
 
-## How to cite this repository?
+## How to Cite this Repository?
 If you find provided code and signals useful for your own research and teaching class, please cite the following references:
-1) Tanasković, I., Lazarević, L. B., Knežević, G., Milosavljević, N., Dubljević, O., Bjegojević, B., & Miljković, N. (2023). CardioPRINT-based biometric identification with machine learning (Version 1.0) [Computer software]. https://github.com/Luck032/CardioPRINT-biometric-identification-with-machine-learning
-2) Tanasković, I., Lazarević, L. B., Knežević, G., Milosavljević, N., Dubljević, O., Bjegojević, B., & Miljković, N.(2023). CardioPRINT: Biometric identification based on the individual characteristics derived from cardiogram. PsyArXiv preprint.
-3) Bjegojević B, Milosavljević N, Dubljević O, Purić D, Knežević G. In pursuit of objectivity: Physiological measures as a means of emotion induction procedure validation. Empirical Studies in Psychology 2020:17.
-4) Tanasković, I., Lazarević, L. B., Knežević, G., Milosavljević, N., Dubljević, O., Bjegojević, B., & Miljković, N. (2023). Dataset for CardioPRINT-based biometric identification [Dataset]. 
+1) Tanasković, I., Lazarević, L. B., Knežević, G., Milosavljević, N., Dubljević, O., Bjegojević, B., & Miljković, N. (2023). CardioPRINT-based Biometric Identification with Machine Learning (Version 1.0) [Computer software]. https://github.com/Luck032/CardioPRINT-based-biometric-identification-with-machine-learning
+2) Tanasković, I., Lazarević, L. B., Knežević, G., Milosavljević, N., Dubljević, O., Bjegojević, B., & Miljković, N.(2023). CardioPRINT: Biometric Identification Based on the Individual Characteristics Derived from Cardiogram. PsyArXiv preprint.
+3) Bjegojević B, Milosavljević N, Dubljević O, Purić D, Knežević G. In pursuit of objectivity: Physiological Measures as a Means of Emotion Induction Procedure Validation. Empirical Studies in Psychology 2020:17.
+4) Tanasković, I., Lazarević, L. B., Knežević, G., Milosavljević, N., Dubljević, O., Bjegojević, B., & Miljković, N. (2023). Dataset for CardioPRINT-based Biometric Identification [Dataset]. 
