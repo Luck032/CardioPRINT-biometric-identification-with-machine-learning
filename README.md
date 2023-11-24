@@ -27,7 +27,7 @@ Data provided in this repository are shared under Attribution 4.0 International 
 3)	[Features_without_neutral.csv ](https://github.com/Luck032/CardioPRINT-biometric-identification-with-machine-learning/blob/main/Features_without_neutral.csv) - table containing both ECG and ICG features extracted from signals containing two segments (emotional phase)
 4)	[Features.csv](https://github.com/Luck032/CardioPRINT-biometric-identification-with-machine-learning/blob/main/Features.csv) – table containing both ECG and ICG features extracted from signals containing all three segments (emotional phase)
 The columns in tables timestamps_without_neutral.csv and  timestamps_with_neutral.csv indicate (ID – identifier of the individual, T1 – the beginning of the baseline segment, T2 – the end of the baseline segment, T3 – the beginning of the anger segment, T4 – the end of the anger segment, T5 – the beginning of the neutral segment, T6 – the end of the neutral segment).
-It should be noted that table timestamps_without_neutral.csv does not contain T5 and T6 stamps since the recording protocol did not include neutral segment
+It should be noted that table timestamps_without_neutral.csv does not contain T5 and T6 stamps since the recording protocol did not include the neutral segment
 
 ## Contacts
 Ilija Tanasković ([ilijatanaskovic97@hotmail.com](mailto:ilijatanaskovic97@hotmail.com)) or Nadica Miljković (e-mail: [nadica.miljkovic@etf.bg.ac.rs](mailto:nadica.miljkovic@etf.bg.ac.rs)).
@@ -37,4 +37,9 @@ NM acknowledges the support from Grant No. 451–03–47/ 2023–01/200103 funde
 
 ## How to cite this repository?
 If you find provided code and signals useful for your own research and teaching class, please cite the following references:
-1) Tanasković, I., & Miljković, N. (2023). NadicaSm/CardioPRINT-biometric-identification-with-machine-learning. [Software code], Zenodo.
+1) Tanasković, I., Lazarević, L. B., Knežević, G., Milosavljević, N., Dubljević, O., Bjegojević, B., & Miljković, N. (2023). CardioPRINT-based biometric identification with machine learning (Version 1.0) [Computer software]. https://github.com/Luck032/CardioPRINT-biometric-identification-with-machine-learning
+2) Tanasković, I., Lazarević, L. B., Knežević, G., Milosavljević, N., Dubljević, O., Bjegojević, B., & Miljković, N.(2023). CardioPRINT: Biometric identification based on the individual characteristics derived from cardiogram.
+3) Bjegojević B, Milosavljević N, Dubljević O, Purić D, Knežević G. In pursuit of
+objectivity: Physiological measures as a means of emotion induction procedure validation.
+Empirical Studies in Psychology 2020:17.
+4)
