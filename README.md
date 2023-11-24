@@ -26,14 +26,7 @@ Data provided in this repository are shared under Attribution 4.0 International 
 2)	[timestamps_with_neutral.csv](https://github.com/Luck032/CardioPRINT-biometric-identification-with-machine-learning/blob/main/timestamps_with_neutral.csv) – table with timestamps marking the beginning and the end of each segment in signals containing all three segments (emotional phase)
 3)	[Features_without_neutral.csv ](https://github.com/Luck032/CardioPRINT-biometric-identification-with-machine-learning/blob/main/Features_without_neutral.csv) - table containing both ECG and ICG features extracted from signals containing two segments (emotional phase)
 4)	[Features.csv](https://github.com/Luck032/CardioPRINT-biometric-identification-with-machine-learning/blob/main/Features.csv) – table containing both ECG and ICG features extracted from signals containing all three segments (emotional phase)
-The columns in tables timestamps_without_neutral.csv and  timestamps_with_neutral.csv indicate:
-1)	ID – identifier of the individual
-2)	T1 – the beginning of the baseline segment
-3)	T2 – the end of the baseline segment
-4)	T3 – the beginning of the anger segment
-5)	T4 – the end of the anger segment
-6)	T5 – the beginning of the neutral segment
-7)	T6 – the end of the neutral segment
+The columns in tables timestamps_without_neutral.csv and  timestamps_with_neutral.csv indicate (ID – identifier of the individual, T1 – the beginning of the baseline segment, T2 – the end of the baseline segment, T3 – the beginning of the anger segment, T4 – the end of the anger segment, T5 – the beginning of the neutral segment, T6 – the end of the neutral segment).
 It should be noted that table timestamps_without_neutral.csv does not contain T5 and T6 stamps since the recording protocol did not include neutral segment
 
 ## Contacts
