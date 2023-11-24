@@ -3,7 +3,7 @@ This repository contains Python and R programming codes, as well as extracted ti
 
 ## GitHub Repository Contents
 This repository contains Python and R programming codes, as well as extracted timestamps for segments that describe emotional states and feature sets for both ECG and ICG recordings that reproduce results for the paper titled "[CardioPRINT: Biometric identification based on the individual characteristics derived from cardiogram](link)".
-Also, this repository contains [README.md](link) file with relevant information essential for code reproducibility and [LICENSE](link) file that contains license information that covers shared software codes.
+Also, this repository contains [README.md](https://github.com/Luck032/CardioPRINT-biometric-identification-with-machine-learning/blob/main/README.md) file with relevant information essential for code reproducibility and [LICENSE](https://github.com/Luck032/CardioPRINT-biometric-identification-with-machine-learning/blob/main/LICENSE) file that contains license information that covers shared software codes.
 
 ### Code
 Shared programs are free software: you can redistribute them and/or modify them under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. These programs are distributed in the hope that they will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. You should have received a copy of the GNU General Public License along with these programs. If not, see [https://www.gnu.org/licenses/](https://www.gnu.org/licenses/).
