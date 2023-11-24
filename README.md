@@ -12,20 +12,20 @@ Please, report any bugs to the Authors listed in the Contacts.
 
 The repository contains the following code:
 
-1)	[CardioPrint_feature_extraction_two_segments.R] – R code that implements feature selection on signals containing two segments (emotional phase)
-2)	[CardioPrint_feature_extraction_three_segments.R] – R code that implements feature selection on signals containing all three segments
-3)	[CardioPrint_all_three_segments_validation.ipynb] – Python code that corresponds to the first step in our Method – The best-performing models and hyperparameter determination (BPM) that implements hyperparameter tuning and the selection of models with high accuracies (>90%) for further analysis
-4)	[CardioPrint_all_three_segments_learning.ipynb] – Python code that corresponds to the second step in our Method – Feature Set Selection (FSS) that investigates the best-performing feature set with appropriate statistical tests
-5)	[CardioPrint_baseline_learning.ipynb] – Python code that corresponds to the third step in our Method – Testing model robustness to altered emotional state (TMR) that investigates the effect of different emotional states on biometric identification during training model on baseline segment and evaluation on all three segments
+1)	[CardioPrint_feature_extraction_two_segments.R](https://github.com/Luck032/CardioPRINT-biometric-identification-with-machine-learning/blob/main/CardioPrint_feature_extraction_two_segments.R) – R code that implements feature selection on signals containing two segments (emotional phase)
+2)	[CardioPrint_feature_extraction_three_segments.R](https://github.com/Luck032/CardioPRINT-biometric-identification-with-machine-learning/blob/main/CardioPrint_feature_extraction_three_segments.R) – R code that implements feature selection on signals containing all three segments
+3)	[CardioPrint_all_three_segments_validation.ipynb](https://github.com/Luck032/CardioPRINT-biometric-identification-with-machine-learning/blob/main/CardioPrint_all_three_segments_validation.ipynb) – Python code that corresponds to the first step in our Method – The best-performing models and hyperparameter determination (BPM) that implements hyperparameter tuning and the selection of models with high accuracies (>90%) for further analysis
+4)	[CardioPrint_all_three_segments_learning.ipynb](https://github.com/Luck032/CardioPRINT-biometric-identification-with-machine-learning/blob/main/CardioPrint_all_three_segments_learning.ipynb) – Python code that corresponds to the second step in our Method – Feature Set Selection (FSS) that investigates the best-performing feature set with appropriate statistical tests
+5)	[CardioPrint_baseline_learning.ipynb](https://github.com/Luck032/CardioPRINT-biometric-identification-with-machine-learning/blob/main/CardioPrint_baseline_learning.ipynb) – Python code that corresponds to the third step in our Method – Testing model robustness to altered emotional state (TMR) that investigates the effect of different emotional states on biometric identification during training model on baseline segment and evaluation on all three segments
 6)	[CardioPrint_anger_learning.ipynb] – Python code that corresponds to the third step in our Method – Testing model robustness to altered emotional state (TMR) that investigates the effect of different emotional states on biometric identification during training model on anger segment and evaluation on all three segments
 
 ### Data
 Data provided in this repository are shared under Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)). 
 
-1)	[timestamps_without_neutral.csv] – table with timestamps marking the beginning and the end of each segment in signals containing two segments (emotional phase)
+1)	[timestamps_without_neutral.csv](https://github.com/Luck032/CardioPRINT-biometric-identification-with-machine-learning/blob/main/timestamps_without_neutral.csv) – table with timestamps marking the beginning and the end of each segment in signals containing two segments (emotional phase)
 2)	[timestamps_with_neutral.csv] – table with timestamps marking the beginning and the end of each segment in signals containing all three segments (emotional phase)
-3)	[Features_without_neutral.csv ] - table containing both ECG and ICG features extracted from signals containing two segments (emotional phase)
-4)	[Features.csv] – table containing both ECG and ICG features extracted from signals containing all three segments (emotional phase)
+3)	[Features_without_neutral.csv ](https://github.com/Luck032/CardioPRINT-biometric-identification-with-machine-learning/blob/main/Features_without_neutral.csv) - table containing both ECG and ICG features extracted from signals containing two segments (emotional phase)
+4)	[Features.csv](https://github.com/Luck032/CardioPRINT-biometric-identification-with-machine-learning/blob/main/Features.csv) – table containing both ECG and ICG features extracted from signals containing all three segments (emotional phase)
 The columns in tables timestamps_without_neutral.csv and  timestamps_with_neutral.csv indicate:
 1)	ID – identifier of the individual
 2)	T1 – the beginning of the baseline segment
